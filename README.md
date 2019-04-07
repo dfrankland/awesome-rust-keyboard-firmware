@@ -46,6 +46,18 @@ More info on the Embedded Executor system, its inception, and progress:
 *   <https://josh.robsonchase.com/embedded-executor/>
 *   <https://josh.robsonchase.com/embedded-executor-2/>
 
+### [proton-c][]
+
+[proton-c]: https://github.com/dfrankland/proton-c
+
+*   Status: alpha
+*   MCU: [stm32f303][]
+*   System: none
+
+A proof-of-concept blinking the LED of the Proton C, an ARM STM32F303xC based
+drop-in replacement for the Pro Micro. It uses the same chip as the Planck rev6
+boards, and Skully's new ARM Clueboards.
+
 ## Inactive Projects
 
 ### [flutterby-rs][]
@@ -97,5 +109,6 @@ Mostly follows the guides made by Branan Riley on running Rust on Teensy 3.2:
 
 [stm32l151]: https://www.st.com/content/ccc/resource/technical/document/reference_manual/cc/f9/93/b2/f0/82/42/57/CD00240193.pdf/files/CD00240193.pdf/jcr:content/translations/en.CD00240193.pdf
 [stm32f103]: https://www.st.com/resource/en/reference_manual/cd00171190.pdf
+[stm32f303]: https://www.st.com/resource/en/reference_manual/dm00043574.pdf
 [atmega32u4]: http://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf
 [mk20dx256]: https://www.nxp.com/docs/en/reference-manual/K20P64M72SF1RM.pdf
