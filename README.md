@@ -52,7 +52,7 @@ More info on the Embedded Executor system, its inception, and progress:
 
 *   Status: alpha
 *   MCU: [stm32f303][]
-*   System: none
+*   System: [Real Time For the Masses][]
 
 A proof-of-concept blinking the LED of the Proton C, an ARM STM32F303xC based
 drop-in replacement for the Pro Micro. It uses the same chip as the Planck rev6
