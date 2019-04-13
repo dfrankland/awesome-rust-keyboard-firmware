@@ -15,9 +15,9 @@ A list of keyboard firmwares written in Rust and related resources.
 An alternative firmware for the first Anne Pro Keyboard, with the goal of being
 more stable than the original firmware and adding extra features.
 
-### [rusty-preonic][]
+### [keyberon][]
 
-[rusty-preonic]: https://github.com/TeXitoi/rusty-preonic
+[keyberon]: https://github.com/TeXitoi/keyberon
 
 *   Status: beta
 *   MCU: [stm32f103][]
