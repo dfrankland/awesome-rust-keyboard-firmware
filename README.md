@@ -15,12 +15,13 @@ A list of keyboard firmwares written in Rust and related resources.
 An alternative firmware for the first Anne Pro Keyboard, with the goal of being
 more stable than the original firmware and adding extra features.
 
-### [keyberon][]
+### [keyberon][] / [keyberon-f4][]
 
 [keyberon]: https://github.com/TeXitoi/keyberon
+[keyberon-f4]: https://github.com/TeXitoi/keyberon-f4
 
 *   Status: beta
-*   MCU: [stm32f103][]
+*   MCU: [stm32f103][] / [stm32f401][]
 *   System: [Real Time For the Masses][]
 
 A hand wired preonic mechanical keyboard with a firmware in rust.
@@ -110,5 +111,6 @@ Mostly follows the guides made by Branan Riley on running Rust on Teensy 3.2:
 [stm32l151]: https://www.st.com/content/ccc/resource/technical/document/reference_manual/cc/f9/93/b2/f0/82/42/57/CD00240193.pdf/files/CD00240193.pdf/jcr:content/translations/en.CD00240193.pdf
 [stm32f103]: https://www.st.com/resource/en/reference_manual/cd00171190.pdf
 [stm32f303]: https://www.st.com/resource/en/reference_manual/dm00043574.pdf
+[stm32f401]: https://www.st.com/resource/en/reference_manual/dm00096844.pdf
 [atmega32u4]: http://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf
 [mk20dx256]: https://www.nxp.com/docs/en/reference-manual/K20P64M72SF1RM.pdf
