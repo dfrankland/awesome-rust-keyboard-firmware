@@ -59,6 +59,15 @@ A proof-of-concept blinking the LED of the Proton C, an ARM STM32F303xC based
 drop-in replacement for the Pro Micro. It uses the same chip as the Planck rev6
 boards, and Skully's new ARM Clueboards.
 
+### [KeyToKey][] / [stm32f103_k2k][]
+
+[KeyToKey]: https://github.com/TyberiusPrime/KeyToKey
+[stm32f103_k2k]: https://github.com/TyberiusPrime/stm32f103_k2k
+
+*   Status: alpha
+*   MCU: [stm32f103][]
+*   System: [Real Time For the Masses][]
+
 ## Inactive Projects
 
 ### [flutterby-rs][]
