@@ -68,6 +68,17 @@ boards, and Skully's new ARM Clueboards.
 *   MCU: [stm32f103][]
 *   System: [Real Time For the Masses][]
 
+### [HONKS][]
+
+[HONKS]: https://github.com/FranticRain/HONKS
+
+*   Status: alpha
+*   MCU: none
+*   System: none
+
+HONKS is an attempt to replace QMK with a ground-up firmware built for STM32
+microcontrollers that does not contain any of the bloat of an RTOS or Arduino.
+
 ## Inactive Projects
 
 ### [flutterby-rs][]
@@ -113,6 +124,16 @@ Mostly follows the guides made by Branan Riley on running Rust on Teensy 3.2:
 
 *   <https://www.pjrc.com/using-rust-language-on-teensy-3-2/>
 *   <https://branan.github.io/teensy/>
+
+### [rmk][]
+
+[rmk]: https://github.com/Innectic/rmk
+
+*   Status: alpha
+*   MCU: none
+*   System: none
+
+Rusty version of QMK.
 
 [Real Time For the Masses]: https://github.com/japaric/cortex-m-rtfm
 [Embedded Executor]: https://gitlab.com/polymer-kb/firmware/embedded-executor
